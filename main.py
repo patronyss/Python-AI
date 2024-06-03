@@ -1,4 +1,3 @@
-
 def has_three_same(number_value):
     number_str = str(number_value)
     for digit in set(number_str):
